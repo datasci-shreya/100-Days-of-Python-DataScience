@@ -1,8 +1,8 @@
 Age = 25 # int
-Marks = 89.3 # float
-City = "Pune" # str
+Marks = 95.9 # float
+City = "  Mumbai" # str
 Food = False # bool
-Complex = 3+4j # complex
+Complex = 1+2j # complex
 print(type(Age))
 print(type(Marks))
 print(type(City))
